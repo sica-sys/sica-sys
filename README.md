@@ -21,8 +21,3 @@ Ma config **Hyprland** où **tout suit une seule couleur** (la « couleur Cava �
 
 - Je m'entraîne sur **TryHackMe**
 - Une **barre Cyber** dans mes dotfiles (statut VPN, boîte à outils OSINT et pentest), à utiliser **uniquement sur mes propres machines ou des cibles autorisées**
-- Certificats OpenClassrooms : *Concevez votre réseau TCP/IP* · *Réalisez un test d'intrusion web*
-
-## 🎓 Parcours
-
-Formation numérique (2026) · une dizaine de certificats au total
